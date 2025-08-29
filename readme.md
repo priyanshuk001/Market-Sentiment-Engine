@@ -62,6 +62,3 @@ git checkout streamlit
 streamlit run generate-dashboard.py
 ```
 
-## Project Analytics
-
-![Alt](https://repobeats.axiom.co/api/embed/ff35eee02b7cadaba90d5a6699bcb47aea0040f9.svg "Repobeats analytics image")
